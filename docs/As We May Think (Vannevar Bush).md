@@ -9,6 +9,6 @@ Bush believed that the memex requires a code view and a viewing mode (similar to
 
 ## Links: 
 [This website](https://history-computer.com/memex-guide/) gives a good description and background to the Memex. I particularily like the visual representation it gives of the Memex itself be essencially a desk on the outside, but with so much information on the inside. 
-[The Naivety of Vannevar Bush](The%20naivety%20of%20vannevar%20bush.md)
+[[The Naivety of Vannevar Bush]]
 [[Codebook]]
 [[One way pointers]]
