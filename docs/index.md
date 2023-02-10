@@ -1,11 +1,33 @@
-# Obsidian Notes
+## Sources: 
+- [[As We May Think (Vannevar Bush)]]
+- [[From Clay Tablets to Web - Journey of Library Catalogue (Shiv Kumar)]]
+- [[Introduction - Media as Historical Subjects (Lisa Gitelman)]]
+- [[Text Classification Algorithms - A Survey (Kamran Kowsari et al.)]]
+- [[The "Amherst Method" - The Origins of the Dewey Decimal Classification Scheme (Wayne A. Wiegand)]]
+- [[The Garden and the Stream - A Technopastoral (Mike Caulfield)]]
+- [[Towards adopting AI techniques for monitoring social media activities (Lina Muhammad Al-Ghamdi)]]
 
-Publish your public notes with MkDocs
 
-## Hello World!
+## Notes:
+### The Current Web
+- [[Consumer and producer]]
+- [[Mediums]]
+- [[No one wants to build the garden]]
+- [[Original garden]]
+- [[One way pointers]]
+- [[The naivety of vannevar bush]]
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+### The Future Web
+- [[AI]]
+- [[Could AI be better the Dewey?]]
+- [[Future Web]]
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+### Classification and Catalogue
+- [[Catalogue]]
+- [[Codebook]]
+- [[The pattern is the key]]
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+
+## Further Work:
+- [Soumen Chakrabarti. 2002. Mining the Web: Discovering Knowledge from HyperText Data. Science & Technology Books.](https://books.google.ca/books/about/Mining_the_Web.html?id=EtXSW9owrYYC&source=kp_book_description&redir_esc=y)
+- 
