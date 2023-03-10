@@ -1,0 +1,3 @@
+tags: #atomic #moderntech #telegraph 
+
+Reading more and more online about the extreme and radical ideas of some people got me thinking about whether this is just and inevitable part of human history. There have always been those of "crazy" views and perhaps they are more applified now, but people have to choose to listen to them. I'd be interested in reading more about early extremist ideology and if there was any in the early days with the telegraph and older forms of communication.

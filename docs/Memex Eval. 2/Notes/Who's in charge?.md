@@ -1,0 +1,3 @@
+tags: #atomic #garden #steam #moderntech 
+
+When you think about it, it's kind of wierd to think there is this free, reletively accesable online database and forum for people to explore at their own desires. When reading about the telegraph, it was clear there was some degree of government involvment with it, especially with construction or new connections that were being made, but with the internet, governments aren't really able to completly control whats going on. It's simply too big with too many people and different ways of avoiding restrictions. Even the companies like Google, Microsoft, Yahoo etc. that run the main browsers either can't or won't take ownership of control what is made, said, done online. 
